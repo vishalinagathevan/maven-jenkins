@@ -1,2 +1,1 @@
-# maven-jenkins
-Jenkins pipeline example 
+# jenkins-pipeline-example
